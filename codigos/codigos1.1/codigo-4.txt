@@ -1,0 +1,4 @@
+git status -s= sirve para ver archivos modificados 
+
+git init= se aplica para conectar una carpeta a git pero en visualstudio code
+ 

@@ -1,0 +1,7 @@
+cat= sirve para ver que contiene un archivo si entrar en el creo hasta carpetas igual 
+
+nano= sirve para editar un archivo, como si fuera un editor de texto 
+
+date= da la fecha 
+
+cal= da el calendario el mes y el dia que te encuentras 

@@ -1,0 +1,6 @@
+ls /-/-/= entrelos espacios ponemos los nombres los archivos o carptas para entrar directo a donde queremos si meter tanto "cd" pero solo vemos no entramos en si en la carpeta solo vemos lo que contiene
+
+cd= lo mismo pero la diferencia es que en este si entramos en el archivo o carpeta lo que sea 
+
+
+ 

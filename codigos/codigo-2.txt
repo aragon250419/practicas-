@@ -1,0 +1,7 @@
+cd=entramos en una carpeta o archivo seleccionado
+
+cd ..=sales de donde estes, 1 hace atras 
+
+mkdir= creas una carpeta "directorio"
+
+

@@ -1,0 +1,7 @@
+pwd= sirve para ver en que ruta andamos 
+
+ls= en lista todos los archivos que se encuentras en una capeta o archivo en especifico 
+
+ls -al=muestra lo mismo que en ls pero este muestras los permisos que tienen y hasta los ocultos 
+
+ls -a= solo muestra los archivos ocultos  
